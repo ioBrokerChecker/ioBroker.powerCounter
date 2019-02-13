@@ -67,14 +67,14 @@
         ],
 
         "platform": "Javascript/Node.js",
-        // more Modes are none, subscribe, schedule, once
+       
         "mode": "daemon",
 
         "icon": "batterie.jpg",
 
         "enabled": true,
 
-        "extIcon": "https://github.com/baslm-ag/ioBroker.powerCounter/blob/master/admin/batterie.jpg"
+        "extIcon": "https://github.com/baslm-ag/ioBroker.powerCounter/blob/master/admin/batterie.jpg",
       
         "keywords": ["counter", "vis", "adapter"],
 
